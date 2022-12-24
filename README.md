@@ -3,3 +3,7 @@ Local Coherence Pattern is a novel image descriptor for fingerprint liveness det
 
 
 W. Kim, "Fingerprint Liveness Detection Using Local Coherence Patterns," in IEEE Signal Processing Letters, vol. 24, no. 1, pp. 51-55, Jan. 2017, doi: 10.1109/LSP.2016.2636158.
+
+fscore file : calculate Accuracy, Sensitivity, Specificity, Precision, Recall, F-Measure, G-mean of the model
+
+Other files contain noisy model.
